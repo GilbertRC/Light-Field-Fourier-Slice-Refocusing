@@ -7,3 +7,12 @@ This refocusing process is very fast!
 
 ### References:
 * R. Ng, "Fourier slice photography," in *Proc. ACM SIGGRAPH*, 2005, pp. 735–744.
+
+<table>
+    <tr>
+        <td ><center><img src="https://github.com/GilbertRC/Light-Field-Fourier-Slice-Refocusing-hlfx_version/blob/master/Bikes_refocus.gif">nav1</center></td>
+        <td ><center><img src="https://github.com/GilbertRC/Light-Field-Fourier-Slice-Refocusing-hlfx_version/blob/master/Bikes_refocusFFT.gif">nav2</center></td>
+    
+    </tr>
+
+</table>
