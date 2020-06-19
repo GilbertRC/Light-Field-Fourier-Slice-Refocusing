@@ -12,4 +12,4 @@ This refocusing process is very fast!
 </table>
 
 ### References:
-* R. Ng, "Fourier slice photography," in *Proc. ACM SIGGRAPH*, 2005, pp. 735–744.
+[1] R. Ng, "Fourier slice photography," in *Proc. ACM SIGGRAPH*, 2005, pp. 735–744.
