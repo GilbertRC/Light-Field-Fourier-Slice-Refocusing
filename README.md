@@ -5,8 +5,8 @@ This refocusing process is very fast!
 
 <table>
     <tr>
-    <td ><center>Bikes_refocus<img src="https://github.com/GilbertRC/Light-Field-Fourier-Slice-Refocusing-hlfx_version/blob/master/Bikes_refocus.gif" width="300"></center></td>
-    <td ><center>Bikes_refocusFFT<img src="https://github.com/GilbertRC/Light-Field-Fourier-Slice-Refocusing-hlfx_version/blob/master/Bikes_refocusFFT.gif" width="300"></center></td>
+    <td ><center>Bikes_refocus<img src="https://github.com/GilbertRC/Light-Field-Fourier-Slice-Refocusing-hlfx_version/blob/master/Bikes_refocus.gif"></center></td>
+    <td ><center>Bikes_refocusFFT<img src="https://github.com/GilbertRC/Light-Field-Fourier-Slice-Refocusing-hlfx_version/blob/master/Bikes_refocusFFT.gif"></center></td>
     </tr>
 </table>
 
