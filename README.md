@@ -3,6 +3,10 @@ A simple reproduced version of Light Field Fourier Slice Refocusing
 
 This refocusing process is very fast!
 
+<center class="half">
+    <img src="https://github.com/GilbertRC/Light-Field-Fourier-Slice-Refocusing-hlfx_version/blob/master/Bikes_refocus.gif" width="200"/><img src="https://github.com/GilbertRC/Light-Field-Fourier-Slice-Refocusing-hlfx_version/blob/master/Bikes_refocusFFT.gif" width="200"/>
+</center>
+
 ![Bikes_refocus](https://github.com/GilbertRC/Light-Field-Fourier-Slice-Refocusing-hlfx_version/blob/master/Bikes_refocus.gif)![Bikes_refocusFFT](https://github.com/GilbertRC/Light-Field-Fourier-Slice-Refocusing-hlfx_version/blob/master/Bikes_refocusFFT.gif)
 
 ### References:
