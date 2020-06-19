@@ -3,9 +3,7 @@ A simple reproduced version of Light Field Fourier Slice Refocusing
 
 This refocusing process is very fast!
 
-<figure class="third">
-    <img src="https://github.com/GilbertRC/Light-Field-Fourier-Slice-Refocusing-hlfx_version/blob/master/Bikes_refocus.gif" width="200"/>Bikes_refocus <img src="https://github.com/GilbertRC/Light-Field-Fourier-Slice-Refocusing-hlfx_version/blob/master/Bikes_refocusFFT.gif" width="200"/>Bikes_refocusFFT
-</figure>
+<figure class="third">Bikes_refocus<img src="https://github.com/GilbertRC/Light-Field-Fourier-Slice-Refocusing-hlfx_version/blob/master/Bikes_refocus.gif" width="200"/> Bikes_refocusFFT<img src="https://github.com/GilbertRC/Light-Field-Fourier-Slice-Refocusing-hlfx_version/blob/master/Bikes_refocusFFT.gif" width="200"/></figure>
 
 <center class="half">
 <img src="https://github.com/GilbertRC/Light-Field-Fourier-Slice-Refocusing-hlfx_version/blob/master/Bikes_refocus.gif" width="200"/><img src="https://github.com/GilbertRC/Light-Field-Fourier-Slice-Refocusing-hlfx_version/blob/master/Bikes_refocusFFT.gif" width="200"/>
