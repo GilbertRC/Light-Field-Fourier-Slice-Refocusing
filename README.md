@@ -16,3 +16,8 @@ This refocusing process is very fast!
     </tr>
 
 </table>
+
+<figure class="third">
+    <img src="https://github.com/GilbertRC/Light-Field-Fourier-Slice-Refocusing-hlfx_version/blob/master/Bikes_refocus.gif" width="200">
+    <img src="https://github.com/GilbertRC/Light-Field-Fourier-Slice-Refocusing-hlfx_version/blob/master/Bikes_refocusFFT.gif" width="200">
+</figure>
