@@ -1,4 +1,4 @@
-# Light Field Fourier Slice Refocusing (hlfx_version)
+# Light Field Fourier Slice Refocusing
 A simple reproduced version of Light Field Fourier Slice Refocusing
 
 This refocusing process is very fast!
