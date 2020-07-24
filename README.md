@@ -11,7 +11,7 @@ This refocusing process is very fast!
     </tr>
 </table>
 
-### Demo:
+### 2020.7.24:
 Now using test.m combined with refocus_fourierslice_rgb.m can do fourier slice directly on the 5D LF (with the color channel).
 
 ### References:
