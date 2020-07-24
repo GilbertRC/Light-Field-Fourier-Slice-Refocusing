@@ -4,9 +4,9 @@
 clear all;
 
 %% Parameters
-res_y = 368;
-res_x = 528;
-res_v = 7;
+res_y = 375;
+res_x = 540;
+res_v = 14;
 res_u = res_v;
 nChan = 3;
 is_Padding = false;
